@@ -1,5 +1,5 @@
 numbers = [2, 5, 13, 7, 6, 4]
-sie = 6
+size = 6
 sum = 0
 avg = 0
 index = 0
