@@ -1,0 +1,19 @@
+AS IS:
+<req>
+	<surname>Иванов</name>
+	<name>Иван</name>
+	<patronymic>Иванович</patronymic>
+	<birthdate01.01.1990</birthdate>
+	<birthplace>Московская область с. Вельяминово</birthplace>
+	<phone>8 926 766 48 48</phone
+</req>
+
+TO BE:
+<req>
+	<surname>Иванов</surname>
+	<name>Иван</name>
+	<patronymic>Иванович</patronymic>
+	<birthdate>01.01.1990</birthdate>
+	<birthplace>Московская область с. Вельяминово</birthplace>
+	<phone>8 926 766 48 48</phone>
+</req>
