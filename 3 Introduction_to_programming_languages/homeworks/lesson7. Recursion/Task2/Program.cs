@@ -7,7 +7,6 @@ Console.Write(Ackerman(3, 2));
 
 int Ackerman(int n, int m)
 {
-
     if(n == 0)
     {
         return m + 1;
